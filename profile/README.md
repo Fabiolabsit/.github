@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, It's Wizard Squad</h1>
+<h1 align="center">Hi 👋, It's Fabiolabs IT</h1>
 <h3 align="center">We are passionate frontend Web Developer from Bangladesh</h3>
 <p>Quick notes, in case you don’t feel like reading all of this: <strong>We design and build websites</strong></p>
 
